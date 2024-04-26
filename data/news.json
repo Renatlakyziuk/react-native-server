@@ -3,7 +3,37 @@
     "title": "Заголовок новини",
     "image": "../assets/img.png",
     "date": "12.12.2024",
-    "short_description": "Короткий опис новини",
+    "short_description": "Короткий опис новини"
+  },
+  {
+    "title": "Заголовок новини",
+    "image": "../assets/img.png",
+    "date": "12.12.2024",
+    "short_description": "Короткий опис новини"
+  },
+  {
+    "title": "Заголовок новини",
+    "image": "../assets/img.png",
+    "date": "12.12.2024",
+    "short_description": "Короткий опис новини"
+  },
+  {
+    "title": "Заголовок новини",
+    "image": "../assets/img.png",
+    "date": "12.12.2024",
+    "short_description": "Короткий опис новини"
+  },
+  {
+    "title": "Заголовок новини",
+    "image": "../assets/img.png",
+    "date": "12.12.2024",
+    "short_description": "Короткий опис новини"
+  },
+  {
+    "title": "Заголовок новини",
+    "image": "../assets/img.png",
+    "date": "12.12.2024",
+    "short_description": "Короткий опис новини"
   },
   {
     "title": "Заголовок новини",
@@ -15,54 +45,24 @@
     "title": "Заголовок новини",
     "image": "../assets/img.png",
     "date": "12.12.2024",
-    "short_description": "Короткий опис новини",
+    "short_description": "Короткий опис новини"
   },
   {
     "title": "Заголовок новини",
     "image": "../assets/img.png",
     "date": "12.12.2024",
-    "short_description": "Короткий опис новини",
+    "short_description": "Короткий опис новини"
   },
   {
     "title": "Заголовок новини",
     "image": "../assets/img.png",
     "date": "12.12.2024",
-    "short_description": "Короткий опис новини",
+    "short_description": "Короткий опис новини"
   },
   {
     "title": "Заголовок новини",
     "image": "../assets/img.png",
     "date": "12.12.2024",
-    "short_description": "Короткий опис новини",
-  },
-  {
-    "title": "Заголовок новини",
-    "image": "../assets/img.png",
-    "date": "12.12.2024",
-    "short_description": "Короткий опис новини",
-  },
-  {
-    "title": "Заголовок новини",
-    "image": "../assets/img.png",
-    "date": "12.12.2024",
-    "short_description": "Короткий опис новини",
-  },
-  {
-    "title": "Заголовок новини",
-    "image": "../assets/img.png",
-    "date": "12.12.2024",
-    "short_description": "Короткий опис новини",
-  },
-  {
-    "title": "Заголовок новини",
-    "image": "../assets/img.png",
-    "date": "12.12.2024",
-    "short_description": "Короткий опис новини",
-  },
-  {
-    "title": "Заголовок новини",
-    "image": "../assets/img.png",
-    "date": "12.12.2024",
-    "short_description": "Короткий опис новини",
+    "short_description": "Короткий опис новини"
   }
 ]
